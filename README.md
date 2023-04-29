@@ -26,7 +26,7 @@ Clone the project
 ```bash
   git clone https://github.com/muneneee/3D-Shirt-Design
 ```
-### Frontend
+#### Frontend
 
 Go to the client directory
 
@@ -64,17 +64,15 @@ Start the server
   npm run start
 ```
 
-## Live Demo
-
-https://stellular-faun-1cd7b9.netlify.app/
-
 ## Environment Variables
 
 To run this web app, you will need to add the OpenAI API key in the .env file with the name:
 
 `OPENAI_API_KEY`
 
+## Live Demo
 
+https://stellular-faun-1cd7b9.netlify.app/
 
 
 ## Feedback
